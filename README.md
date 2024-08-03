@@ -1,6 +1,4 @@
-Curso de Spring Boot
-
-Products Project 
+Course Spring Boot
 
 Tools:
 IntelliJ,
@@ -16,6 +14,7 @@ Spring data jpa,
 PostgreSQL driver,
 Validation
 
+Products Project 
 Product development built with the aim of registering, reading, and deleting products. I used the GET, UPDATE, DELETE, and POST methods to separate each function and facilitate product registration, etc.
 
 
